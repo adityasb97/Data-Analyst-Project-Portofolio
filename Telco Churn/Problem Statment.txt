@@ -1,0 +1,18 @@
+-- Konteks --
+"Memprediksi perilaku untuk mempertahankan pelanggan. Anda dapat menganalisis semua data pelanggan yang relevan dan mengembangkan program retensi pelanggan yang terfokus." [Kumpulan Data Sampel IBM]
+
+-- Problem Statment --
+1. Berapa banyak pelanggan yang bergabung selama kuartal terakhir ?
+2. berapa banyak pelanggan yang churn atau pindah ? dan kenapa pindah/ tidak berlangganan lagi (bisa kita cek korelasi yang pindah dengan kolom" lain)
+3. berapa banyak pelanggan bernilai tinggi atau sudah lama berlanggan pindah ?
+4. berapa % pelanggan churn dan pelanggan yang tetap menggunakan layanan aktif ?
+5. Apakah ada pola di Pelanggan Churn berdasarkan jenis kelamin?
+6. Apakah ada pola/preferensi di Pelanggan Churn berdasarkan jenis layanan yang diberikan?
+7. Apa jenis layanan yang paling menguntungkan?
+8. Fitur dan layanan mana yang paling menguntungkan?
+9.
+-- Layanan yang telah didaftarkan oleh setiap pelanggan - telepon, beberapa saluran, internet, keamanan online, pencadangan online, perlindungan perangkat, dukungan teknis, dan streaming TV dan film.
+
+-- Informasi akun pelanggan - berapa lama mereka telah menjadi pelanggan, kontrak, metode pembayaran, penagihan tanpa kertas, tagihan bulanan, dan total tagihan.
+
+-- Info demografis tentang pelanggan - jenis kelamin, rentang usia, dan apakah mereka memiliki pasangan dan tanggungan
